@@ -1,5 +1,7 @@
 # Hash Generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nescalante/hash-generator.svg)](https://greenkeeper.io/)
+
 > Simply generates random hashes
 
 # Install
