@@ -3,7 +3,7 @@
 module.exports = createHash;
 
 function createHash(length) {
-  var chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
+  var chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
   var text = '';
 
   length = length || 6;
